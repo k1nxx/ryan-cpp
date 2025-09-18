@@ -9,6 +9,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": "https://github.com/k1nxx/ryan-cpp",
   "publisher": "ry444nnn",
   "extensionPack": [
     "jeff-hykin.better-cpp-syntax",
